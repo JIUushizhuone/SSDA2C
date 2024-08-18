@@ -3,6 +3,6 @@ This is the repository for codes of paper "A Signal Spatial Difference enabled A
 
 Please run SY_Proposed.py and XH_Proposed.py to get the results of the proposed method.
 
-Submitted to GLOBECOM 2024.
+Accepted by GLOBECOM 2024 MLC.
 
-Apr-16-2024
+Aug-18-2024
